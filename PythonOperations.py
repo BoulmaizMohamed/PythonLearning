@@ -3,7 +3,7 @@
 #Phython store the operations below as integer
 print(2+5)
 print(5+2-1)
-print(2*2(3+4))
+print(2*2*(3+4))
 
 #Phython store the operations below as float 
 print(0.90)
